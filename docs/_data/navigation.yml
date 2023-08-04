@@ -2,8 +2,7 @@ main:
   - title: "Blog"
     url: /posts/
   - title: "CV"
-    url: docs/my-cv/
-    output: true
+    url: /my-cv/
   - title: "Tags"
     url: /tags/
   - title: "About"
