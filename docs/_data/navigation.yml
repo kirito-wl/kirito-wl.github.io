@@ -2,7 +2,7 @@ main:
   - title: "Blog"
     url: /posts/
   - title: "CV"
-    url: /docs/
+    url: /cv-gp/
   - title: "Tags"
     url: /tags/
   - title: "About"
