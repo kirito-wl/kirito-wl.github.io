@@ -1,8 +1,9 @@
 main:
-  - title: "Posts"
+  - title: "Blog"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
+  - title: "CV"
+    url: docs/my-cv/
+    output: true
   - title: "Tags"
     url: /tags/
   - title: "About"
