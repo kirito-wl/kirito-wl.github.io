@@ -1,10 +1,11 @@
 title: Ramblings of a Recruiter turned Engineer
 email: will.louzado3@gmail.com
-description: CV site / blog of Will Louzado
+description: CV site / blog of Will Louzado, a recruiter turned Engineer on the journey of self learning and practical application.
 github_username:  kirito-wl
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
